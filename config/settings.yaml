@@ -1,0 +1,6 @@
+datasource:
+  username: root
+  password: 123456
+  host: 119.29.25.172
+  port: 3306
+  database: library_science
